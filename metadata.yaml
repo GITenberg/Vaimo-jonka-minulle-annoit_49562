@@ -1,0 +1,28 @@
+_repo: Vaimo-jonka-minulle-annoit_49562
+contributor:
+  translator:
+    agent_name: Swan, Toini
+    gutenberg_agent_id: '45405'
+    url: http://www.gutenberg.org/2009/agents/45405
+creator:
+  author:
+    agent_name: Caine, Hall, Sir
+    aliases:
+    - Caine, Thomas Henry Hall, Sir
+    - Caine, T. Hall, Sir
+    birthdate: 1853
+    deathdate: 1931
+    gutenberg_agent_id: '591'
+    url: http://www.gutenberg.org/2009/agents/591
+    wikipedia: http://en.wikipedia.org/wiki/Hall_Caine
+description: ''
+gutenberg_issued: '2015-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49562'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Vaimo, jonka minulle annoit
+url: http://www.gutenberg.org/ebooks/49562
